@@ -52,7 +52,7 @@
 // in the string table.
 // For example you want to declare the color for the control IDC_ST_AVE
 // Find the string id for that control from the rc file
-// Now define the control's id as IDC_FRISTCONTROL+stringID(IDC_ST_AVE)
+// Now define the control's id as IDC_FIRSTCONTROL+stringID(IDC_ST_AVE)
 #define IDC_FIRSTCONTROL IDC_SIGN
 #define IDC_SIGN 80
 #define IDC_CLEAR 81

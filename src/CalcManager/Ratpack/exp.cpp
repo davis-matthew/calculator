@@ -99,7 +99,7 @@ void exprat(_Inout_ PRAT* px, uint32_t radix, int32_t precision)
 //
 //  FUNCTION: lograt, _lograt
 //
-//  ARGUMENTS: x PRAT representation of number to logarithim
+//  ARGUMENTS: x PRAT representation of number to logarithm
 //
 //  RETURN: log  of x in PRAT form.
 //
